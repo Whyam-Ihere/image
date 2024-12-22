@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "name": "Xianyun",
     "transparency_mode": 3,
-	"updater": "https://github.com/Whyam-Ihere/image"
+	"updater": "https://raw.githubusercontent.com/Whyam-Ihere/image/refs/heads/main/Xianyun.json?token=GHSAT0AAAAAAC3KWCPWVZ2JVJEUPGYI2ROSZ3HQSEA"
   },
   "background": {
     "url": "https://github.com/Whyam-Ihere/image/blob/main/xianyun_upscayl_4x_remacri.png",
