@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "author": "WhyamIhere",
+    "version": "0.0.1",
+    "name": "Xianyun",
+    "transparency_mode": 3,
+    "updater": "https://github.com/Whyam-Ihere/image"
+  },
+  "background": {
+    "url": "https://github.com/Whyam-Ihere/image/blob/main/xianyun_upscayl_4x_remacri.png",
+    "overlay_alpha": 10
+  },
+  "simple_colors": {},
+  "colors": {},
+  "drawable_tints": {}
+}
